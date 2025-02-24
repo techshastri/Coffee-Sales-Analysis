@@ -1,4 +1,4 @@
-# Coffee-Sales-Analysis-
+# Coffee-Sales-Analysis
 Exploring coffee sales trends using Python, Pandas, Matplotlib, and Seaborn!
 
 📊 Project Overview
